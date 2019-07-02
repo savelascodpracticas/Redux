@@ -1,0 +1,39 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/carrito/node_modules
+/basicos_redux_node/node_modules
+
+# testing
+/carrito/coverage
+
+# production
+/carrito/build
+
+# misc
+/carrito/.DS_Store
+/carrito/.env.local
+/carrito/.env.development.local
+/carrito/.env.test.local
+/carrito/.env.production.local
+
+/carrito/npm-debug.log*
+/carrito/yarn-debug.log*
+/carrito/yarn-error.log*
+
+# testing
+/basicos_redux_node/coverage
+
+# production
+/basicos_redux_node/build
+
+# misc
+/basicos_redux_node/.DS_Store
+/basicos_redux_node/.env.local
+/basicos_redux_node/.env.development.local
+/basicos_redux_node/.env.test.local
+/basicos_redux_node/.env.production.local
+
+/basicos_redux_node/npm-debug.log*
+/basicos_redux_node/yarn-debug.log*
+/basicos_redux_node/yarn-error.log*
